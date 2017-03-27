@@ -21,7 +21,7 @@ fork in (Compile, run) := true // Main calls System.exit() to give proper return
 
 // Compile settings
 
-scalaVersion := "2.11.7"
+scalaVersion := "2.12.1"
 
 scalacOptions += "-deprecation"
 
